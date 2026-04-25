@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on building full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js) and improving my problem-solving skills.
+I’m currently Learning on building full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js) and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
