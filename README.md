@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently Learning on building full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js) and improving my problem-solving skills.
+Passionate MERN stack developer with strong fundamentals in MongoDB, Express.js, React, and Node.js. Skilled in building responsive, user-friendly web applications and RESTful APIs. Quick learner with a problem-solving mindset, eager to contribute to real-world projects and grow in a professional development environment.
 
 
 ## 🌐 Socials:
